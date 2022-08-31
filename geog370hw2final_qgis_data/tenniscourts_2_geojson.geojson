@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tenniscourts_2_geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -80.546744693062251, 35.562156326528942 ], [ -80.545731115830876, 35.562188661030234 ], [ -80.545717866455306, 35.561881482741313 ], [ -80.546731443686681, 35.561849148116089 ], [ -80.546744693062251, 35.562156326528942 ] ] ] ] } }
+]
+}
